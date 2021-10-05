@@ -10,5 +10,5 @@ google drive link: https://drive.google.com/drive/folders/1cslazH7Ul7gUTGsX75ynJ
 
 If you use the dataset, please cite this paper: (under review)
 
-H Guo 1,2, D Yang 1, J Zhao 1,3, Z Shi 1, D Zhu 1, T Wang 1. Hybrid-CBF: A hybrid classification and binarization framework for historical Tai Le document image binarization. Pattern Recognition. 2021.
+H Guo, D Yang, J Zhao, Z Shi, D Zhu, T Wang. Hybrid-CBF: A hybrid classification and binarization framework for historical Tai Le document image binarization. Pattern Recognition. 2021.
 
