@@ -6,7 +6,7 @@ Hybrid-CBF：一个混合分类和二值化框架用于德宏傣文古籍文档
 baidu drive 链接：https://pan.baidu.com/s/1Pnq1XrBM16uhavSETK8wpQ 
 提取码：TLDI
 
-google drive link: 
+google drive link: https://drive.google.com/drive/folders/1cslazH7Ul7gUTGsX75ynJ1F5z01lFHXc?usp=sharing
 
 If you use the dataset, please cite this paper: (under review)
 
