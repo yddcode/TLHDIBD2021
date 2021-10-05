@@ -1,2 +1,14 @@
 # TLHDIBD2021
-德宏傣文古籍图像二值化数据集（Tai Le historical document image binarization dataset, TLHDIBD2021）稍后发布
+德宏傣文古籍图像二值化数据集（Tai Le historical document image binarization dataset, TLHDIBD2021）
+
+Hybrid-CBF：一个混合分类和二值化框架用于德宏傣文古籍文档
+
+baidu drive 链接：https://pan.baidu.com/s/1Pnq1XrBM16uhavSETK8wpQ 
+提取码：TLDI
+
+google drive link: 
+
+If you use the dataset, please cite this paper: (under review)
+
+H Guo 1,2, D Yang 1, J Zhao 1,3, Z Shi 1, D Zhu 1, T Wang 1. Hybrid-CBF: A hybrid classification and binarization framework for historical Tai Le document image binarization. Pattern Recognition. 2021.
+
